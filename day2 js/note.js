@@ -186,13 +186,68 @@
 
 
 // let str1 = "Hello";
-// let str2 = "Hello";
-// console.log (str1 === str2);
+// let str2 = "HELLO";
+// console.log (str1.toLowerCase() === str2.toLowerCase());
+
 
 // let userName = "Sarah";
 // let hour = 9; // 9 AM
 // let inputName = `Good morning ${userName}`;
 // console.log (inputName);
+
+
+
+// let userAge = 16;
+// let minimumAge = 18;
+// let isoldEnough = 16 > 18;
+// console.log (isoldEnough);
+
+// let email = "alice@example.com";
+// console.log (email[0]);
+
+// let productName = "Wireless Mouse";
+// let productPrice = 29.99;
+// let inStock = true;
+// let description = `product : ${productName} ${productPrice} ${inStock}`;
+// console.log (description);
+
+
+// let firstName = "John";
+// let middleName = "Robert";
+// let lastName = "Smith";
+// console.log (firstName[0], middleName[0], lastName[0]);
+
+
+// correct version of problem number 23
+// let stPlace = "Gold";
+// let userName = "Alice";
+// let total_cost = 100;
+// if (age = 18) {
+// console.log("You can vote");
+// }
+// let message = 'Its a beautiful day';
+// console.log (message);
+
+
+// // this is correct logic of this problem number of 24
+// let userInput = "25";
+// if (userInput === "25") {
+// console.log("Input is correct");
+// } else {
+// console.log("Input is incorrect");
+// }
+
+// let password = "Pass123";
+// console.log (password);
+// let isLongEnough = "ayaan";
+// console.log (isLongEnough)
+// let startsWithUppercase = "AMAAN";
+// console.log (startsWithUppercase)
+// let endsWithNumber = 1234;
+// console.log("Password is long enough:", isLongEnough);
+// console.log("Starts with uppercase:", startsWithUppercase);
+// console.log("Ends with number:", endsWithNumber);
+
 
 
 
